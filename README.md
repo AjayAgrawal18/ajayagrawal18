@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=ajayagrawal18&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=ajayagrawal18&color=brightgreen&style=plastic&base=1000)
 
 <!--
 **AjayAgrawal18/ajayagrawal18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
